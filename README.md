@@ -1,8 +1,8 @@
 # 《计算机设计实践》
 
-2023年秋季
-武汉大学国家网络安全学院 
-author:[scarletborder](blog.scarletborders.top)
+2023年秋季  
+武汉大学国家网络安全学院   
+author:[scarletborder](https://blog.scarletborders.top)
 
 ## 说明
 ### 实验内容一——单周期CPU 
